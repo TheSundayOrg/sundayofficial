@@ -1124,18 +1124,6 @@ input::-moz-focus-inner {
   content: none;
 }
 
-/** 
- * Stats Tab
- * ---------
- * markup:
- *
- * <ul class="stats-tabs">
- *    <li><a href="#">[value]<em>[name]</em></a></li>
- *  </ul>
- *
- * Extend this object into your markup.
- *
- * --------------------------------------------------------------------- */
 .stats-tabs {
   padding: 0;
   margin: 3rem 0;
@@ -3298,7 +3286,7 @@ color: #ffae00;
 }
 
 .contact-email a {
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 700;
   line-height: 1.2;
   color: #FFFFFF;
@@ -3377,7 +3365,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 6.2rem;
+    font-size: 5.2rem;
   }
 
   .contact-social {
@@ -3392,7 +3380,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 5.5rem;
+    font-size: 4.5rem;
   }
 
   .contact-social {
@@ -3407,7 +3395,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 3.8rem;
+    font-size: 3.0rem;
   }
 
   .contact-social {
@@ -3424,7 +3412,7 @@ color: #ffae00;
 
   .contact-main {
     font-size: 2.1rem;
-    margin-top: 7.2rem;
+   
   }
 
   .contact-social {
@@ -3439,7 +3427,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
 }
@@ -3447,7 +3435,7 @@ color: #ffae00;
 @media only screen and (max-width:400px) {
   .contact-main {
     font-size: 1.6rem;
-    margin-top: 4.5rem;
+    
   }
 
   .contact-email a {
