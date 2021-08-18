@@ -130,27 +130,27 @@ p.lead {
   font-weight: 300;
   font-size: 3.365rem;
   line-height: 1.625;
-  margin-bottom: 3.6rem;
+  margin-bottom: 1.6rem;
   color: rgba(255, 255, 255, 0.2);
 }
 
 @media only screen and (max-width:1200px) {
   p.lead {
-    font-size: 3.2rem;
+    font-size: 2.2rem;
   }
 
 }
 
 @media only screen and (max-width:1000px) {
   p.lead {
-    font-size: 3.1rem;
+    font-size: 2.1rem;
   }
 
 }
 
 @media only screen and (max-width:800px) {
   p.lead {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
 }
@@ -1344,6 +1344,7 @@ body.menu-is-open {
   text-align: left;
 }
 
+
 .subhead {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -1457,7 +1458,7 @@ body.menu-is-open {
 
 @media only screen and (max-width:1200px) {
   .display-1 {
-    font-size: 3.5rem;
+    font-size: 2.5rem;
   }
 
   .display-1 br {
@@ -1468,26 +1469,26 @@ body.menu-is-open {
 
 @media only screen and (max-width:1100px) {
   .display-1 {
-    font-size: 3.0rem;
+    font-size: 2.3rem;
   }
 
 }
 
 @media only screen and (max-width:1000px) {
   .display-1 {
-    font-size: 3rem;
+    font-size: 2.1rem;
   }
 
 }
 
 @media only screen and (max-width:800px) {
   .display-1 {
-    font-size: 2.6rem;
+    font-size: 2.0rem;
     margin-bottom: 4.5rem;
   }
 
   .subhead {
-    font-size: 1.6rem;
+    font-size: 3rem;
   }
 
   .section-header.has-bottom-sep::before {
@@ -1498,11 +1499,11 @@ body.menu-is-open {
 
 @media only screen and (max-width:700px) {
   .display-1 {
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
 
   .subhead {
-    font-size: 1.5rem;
+    font-size: 3.3rem;
   }
 
 }
@@ -1528,11 +1529,11 @@ body.menu-is-open {
 
 @media only screen and (max-width:400px) {
   .display-1 {
-    font-size: 2.4rem;
+    font-size: 1.6rem;
   }
 
   .subhead {
-    font-size: 1.4rem;
+    font-size: 2.5rem;
   }
 
   .item-title {
@@ -2592,7 +2593,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-about {
   padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-bottom: 3rem;
   background-color: #121212;
   position: relative;
 }
@@ -2601,7 +2602,7 @@ html.no-csstransitions .home-content__main {
  * ## about process
  * ------------------------------------------------------------------- */
 .process {
-  margin-top: 6.6rem;
+  margin-top: 3.6rem;
   counter-reset: ctr;
 }
 
@@ -2666,7 +2667,7 @@ color: #ffae00;
 @media only screen and (max-width:1000px) {
   .s-about {
     padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-bottom: 2rem;
   }
 
   .item-process:nth-child(n) {
@@ -2679,7 +2680,7 @@ color: #ffae00;
 @media only screen and (max-width:600px) {
   .s-about {
     padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-bottom: 2rem;
   }
 
   .process h4 {
@@ -2726,8 +2727,8 @@ color: #ffae00;
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 8rem;
-  padding-bottom: 7rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   position: relative;
 }
 
@@ -2735,7 +2736,7 @@ color: #ffae00;
  * ## services list
  * ------------------------------------------------------------------- */
 .services {
-  margin-top: 9rem;
+  margin-top: 4rem;
 }
 
 .item-service {
@@ -2856,7 +2857,7 @@ color: #ffae00;
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  padding-top: 10rem;
+  padding-top:5rem;
   position: relative;
 }
 
@@ -3063,7 +3064,7 @@ color: #ffae00;
  * ------------------------------------------------------------------- */
 @media only screen and (max-width:1000px) {
   .s-works {
-    padding-top: 15rem;
+    padding-top: 5rem;
   }
 
 }
@@ -3078,7 +3079,7 @@ color: #ffae00;
 
 @media only screen and (max-width:600px) {
   .s-works {
-    padding-top: 12rem;
+    padding-top: 5rem;
   }
 
   .masonry-wrap {
@@ -3354,7 +3355,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 7.2rem;
+    font-size: 3.2rem;
   }
 
 }
@@ -3365,7 +3366,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 5.2rem;
+    font-size: 3.2rem;
   }
 
   .contact-social {
@@ -3380,7 +3381,7 @@ color: #ffae00;
   }
 
   .contact-email a {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
   }
 
   .contact-social {
@@ -3580,7 +3581,7 @@ footer a {
   word-spacing: 12rem;
   margin-bottom: 2rem;
   font-size: 9.5rem;
-  margin-left: -110px;
+
 }
 .telegram{
   color: #9A9A9A;
@@ -3598,4 +3599,9 @@ footer a {
 
 color: #F4BB44 ;
 
+}
+.formp{
+  background-color: #000000;
+  align-items: center;
+  text-align: center;
 }
