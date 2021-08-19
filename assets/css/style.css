@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero {
   width: 100%;
   height: 110vh;
-  background: url("./assets/img/hero-bg.svg") center top no-repeat;
+  background: url("assets/img/hero-bg.svg") center top no-repeat;
   opacity: 0.5;
   position: relative;
 }
@@ -376,7 +376,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   #hero {
     width: 100%;
     height: 110vh;
-    background: url("./bg1.svg") center no-repeat;
+    background: url("/bg1.svg") center no-repeat;
     opacity: 0.5;
     position: relative;
   }
@@ -389,7 +389,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   #hero {
     width: 100%;
     height: 110vh;
-    background: url("./bg1.svg") center no-repeat;
+    background: url("/bg1.svg") center no-repeat;
     opacity: 0.5;
     position: relative;
   }

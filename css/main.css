@@ -3605,3 +3605,11 @@ color: #F4BB44 ;
   align-items: center;
   text-align: center;
 }
+
+
+@media only screen and (max-width:600px) {
+ .socialscom{
+   word-spacing: 6rem;
+ }
+
+}
