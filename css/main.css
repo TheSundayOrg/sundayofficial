@@ -1374,7 +1374,7 @@ body.menu-is-open {
   text-align: center;
 }
 
-.section-header.has-bottom-sep::before {
+.section-header.has-bottom-sep::before{
   content: "";
   display: inline-block;
   height: 1px;
@@ -3612,4 +3612,8 @@ color: #F4BB44 ;
    word-spacing: 6rem;
  }
 
+}
+
+.newsletter{
+  text-align: center;
 }
